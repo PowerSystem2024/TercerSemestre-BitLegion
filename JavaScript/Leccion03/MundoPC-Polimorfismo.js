@@ -122,6 +122,11 @@ class Orden {
     }
 }
 
+//Polimorfismo
+function mostrarContenido(dispositivo){
+    //Imprime el toString de cada clase independiente del objeto que se pase como referencia
+    console.log(dispositivo.toString());
+}
 
 // Instancias y pruebas
 let raton1 = new Raton('USB', 'HP');
@@ -149,3 +154,7 @@ orden2.agregarComputadora(computadora2);
 orden2.agregarComputadora(computadora1);
 orden2.mostrarOrden();
 
+//Prueba del polimorfismo.
+mostrarContenido(raton1);
+mostrarContenido(computadora1);
+mostrarContenido(teclado1);

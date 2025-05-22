@@ -5,7 +5,7 @@ class Empleado{
     }
 
     obtenerDetalles(){
-        return `Empleado: nmbre: ${this._nombre},
+        return `Empleado: nombre: ${this._nombre},
         Sueldo: ${this._sueldo}`;
     }
 } //Fin de la clase Empleado
