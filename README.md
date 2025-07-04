@@ -4,5 +4,13 @@ Repositorio creado para el desarrollo del 3º semestre de la tecnicatura en prog
 
 
 ## Integrantes: 
-Oriana Aguilera Salinas, Daiana Emilse Cazón, Manuel Falcón, Rodrigo Iván Farias, Yamil David Rueda, Jorge Ureta, Claudio Esteban Zanchi, Joaquín Zapata
+
+1. Oriana Aguilera Salinas
+2. Daiana Emilse Cazón
+3. Manuel Falcón
+4. Rodrigo Iván Farias
+5. Yamil David Rueda
+6. Jorge Ureta
+7. Claudio Esteban Zanchi
+8. Joaquín Zapata
 
